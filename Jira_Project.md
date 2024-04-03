@@ -44,26 +44,30 @@ Plan Aprroved, Requirements Analyzed, Test Data Prepared;<br> Test Execution: Te
 Results and Metrics Recorded;<br> Test Closure: Test Execution Completed, All Defects Fixed, Test Results and Metrics Reviewed.<br> 
 
 <h4> 1.1.3. Exit Criteria Defined </h4>
-
-The Exit Criteria, that I've defined in my project were at Test Planing: Test Plan Approved,Resource Allocation Finalized, Test Paln Document Finalized; <br> Test 
-Design:  Test Cases Developed and Approved, Test Cases Reviewd and Approved, Test Design Document Finalized; <br> Test Execution: Test Execution Completed, Defects 
-Logged, Test Results and Metrics Recorded;<br> Test Closure: Test Closure Report Prepared and Approved, Lessons Learned Documented. <br>
+<ul>
+<li>The Exit Criteria, that I've defined in my project were at Test Planing: Test Plan Approved,Resource Allocation Finalized, Test Paln Document Finalized;<br></li>
+<li>Test Design:  Test Cases Developed and Approved, Test Cases Reviewd and Approved, Test Design Document Finalized; <br></li>
+<li>Test Execution: Test Execution Completed, Defects Logged, Test Results and Metrics Recorded;<br></li>
+<li>Test Closure: Test Closure Report Prepared and Approved, Lessons Learned Documented. <br></li>
+</ul>
 
 <h4> 1.1.4. Test Scope </h4>
 
 <h5> Tests in scope: </h5>
 
-The tests to be carried out are test cases aimed at the functionality of the components of the Carturesti.ro Website.<br> The First Test Case will be on the valid 
-credentials that user is using to Sing In on the website, i order to make an order and proceed to paymenth and delivery actions. <br>The Second test will be about the 
-Search Bar that the user uses when searching for the desired product.<br>The Third Test will be on The Product Button that the users is using on selecting a Specific 
-Category.<br> The Fourth Test will be about The Language Button that the user is using to select The Language in the Display. <br> The Fifth Test will be on the Cart 
-Functionality and will test how the user can add a Selected Product to Cart Page, by using the Cart Button. <br> The Sixth Test will be about the Assistance 
-Functionality and will test how the user can access Assistance Page, by clicking on the Question Button. <br> The Seventh Test will be about the Assistance Service 
-Functionality and will test how the user can contact the Assistance Service, by clicking on the Message Button. <br> The Eighth Test will be about the Subscription 
-Functionality and will test how the user can get a Subscription on the Carturesti.ro website, by scrooling down on the Main Page and clicking on the Subscription 
-Button. <br> The Ninth Test will be about Gift Voucher Functionality and will test how the user can get a Gift Voucher, by scrooling down on the Main Page and clicking 
-on the OrderNow!Button. <br> The Tenth Test will be about The Newsletter Functionality and will test how a user can get by scrooling down on the Main Page, filling the 
-DataForm and clicking on the Subscription Button.
+The tests to be carried out are test cases aimed at the functionality of the components of the Carturesti.ro Website.<br> 
+<ul>
+<li>The First Test Case will be on the valid credentials that user is using to Sing In on the website, i order to make an order and proceed to paymenth and delivery actions.</li><br>
+<li>The Second test will be about the Search Bar that the user uses when searching for the desired product.</li><br>
+<li>The Third Test will be on The Product Button that the users is using on selecting a Specific Category.</li> <br>
+<li>The Fourth Test will be about The Language Button that the user is using to select The Language in the Display.</li><br> 
+<li>The Fifth Test will be on the Cart Functionality and will test how the user can add a Selected Product to Cart Page, by using the Cart Button.</li><br> 
+<li>The Sixth Test will be about the Assistance Functionality and will test how the user can access Assistance Page, by clicking on the Question Button.</li><br> 
+<li>The Seventh Test will be about the Assistance Service Functionality and will test how the user can contact the Assistance Service, by clicking on the Message Button.</li><br> 
+<li>The Eighth Test will be about the Subscription Functionality and will test how the user can get a Subscription on the Carturesti.ro website, by scrooling down on the Main Page and clicking on the Subscription Button.</li><br> 
+<li>The Ninth Test will be about Gift Voucher Functionality and will test how the user can get a Gift Voucher, by scrooling down on the Main Page and clicking 
+on the OrderNow!Button.</li><br> 
+<li>The Tenth Test will be about The Newsletter Functionality and will test how a user can get by scrooling down on the Main Page, filling the DataForm and clicking on the Subscription Button.</li><br>
 
 <h5>  Tests not in scope: </h5>
 
