@@ -97,7 +97,7 @@ The entry criteria defined in the Test Planning phase have been achived and the 
 The Test Monitoring and Control stages were performed by the tester who performed the test cases. The monitoring was carried out using Jira and Zephyr software 
 and the results can be followed in the status report.
 
-![Status-Report!](/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/Status-Raport.jpg "Status-Report")
+![Status-Report](OneDrive/LocalDisck(C:)/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/Status-Raport.png"Status-Report")
 
 <h3>  1.3. Test Analysis </h3>
 
@@ -107,7 +107,7 @@ selectedItem=com.thed.zephyr.je__cycle-summary)].</b>. <br><br>
 
 The following test conditions were found: <br>
 
-![TestCases.from.issues](/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/TestCases.from.issues.jpg "TestCases.from.issues")
+![TestCases.from.issues](OneDrive/LocalDisck(C:)/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/TestCases.from.issues.png "TestCases.from.issues")
 
 <h3> 1.4. Test Design </h3>
 
@@ -143,11 +143,11 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here:
-![TransabilityMatrix!](/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/TransabilityMatrix.jpg"TransabilityMatrix")
+![Transability.Matrix](OneDrive/LocalDisck(C:)/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/Transability.Matrix.png"Transability.Matrix")
 
 Test execution chart was generated and can be found below: 
 
-![RaportDashboard!](/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/RaportDashboard.jpg"RaportDashboard")
+![Raport.Dashboard](OneDrive/LocalDisck(C:)/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/Raport.Dashboard.png"Raport.Dashboard")
 
 The final report shows that a number 10 tests have failed of a total of 0 tests.
 
