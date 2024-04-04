@@ -10,8 +10,8 @@ Tools used: Jira, Zephyr Squad
 
 The below stories were created in Jira and describes the functional  specifications of the Carturesti.ro website, for which the final project is performed upon.
 
-![Story.2.1.!](/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/Story.2.1.png"Story.2.1.")
-![Story.2.2.!](/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/Story.2.2.png"Story.2.2.")
+![Story.2.1.](OneDrive/LocalDisck(C:)/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/Story.2.1.png"Story.2.1.")
+![Story.2.2.](OneDrive/LocalDisck(C:)/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/Story.2.2.png"Story.2.2.")
 
 Here you can find the release that was created for this project:
 
