@@ -15,7 +15,7 @@ The below stories were created in Jira and describes the functional  specificati
 
 Here you can find the release that was created for this project:
 
-![releases](OneDrive/LocalDisck(C:)/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/releases.png"releases")
+![Releases](OneDrive/LocalDisck(C:)/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/Releases.png"Releases")
 
 <h2> Testing process</h2>
 
