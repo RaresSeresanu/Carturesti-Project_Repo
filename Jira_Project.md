@@ -102,8 +102,7 @@ and the results can be followed in the status report.
 <h3>  1.3. Test Analysis </h3>
 
 The testing process will be executed based on the application requirements.<b> (The requiremen ts analysis has been done in order to implement the <i> early 
-testing</i>) thest principle and the results can be found here:[Jira Software(https://itfclasses.atlassian.net/projects/RSTT?
-selectedItem=com.thed.zephyr.je__cycle-summary)].</b>. <br><br>
+testing</i>) thest principle and the results can be found here:[Jira Software](https://itfclasses.atlassian.net/jira/software/c/projects/RSTT/boards/165).</b>. <br><br>
 
 The following test conditions were found: <br>
 
@@ -112,8 +111,7 @@ The following test conditions were found: <br>
 <h3> 1.4. Test Design </h3>
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here:[Jira 
-Software(https://itfclasses.atlassian.net/jira/software/c/projects/RSTT/issues/RSTT-20?
-jql=project%20%3D%20%22RSTT%22%20and%20type%20%3D%20Test%20ORDER%20BY%20created%20DESC)].</b>. <br><br>
+Software](https://itfclasses.atlassian.net/jira/software/c/projects/RSTT/boards/165).</b>. <br><br>
 
 <h3> 1.5. Test Implementation</h3>
 
