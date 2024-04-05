@@ -10,8 +10,8 @@ Tools used: Jira, Zephyr Squad
 
 The below stories were created in Jira and describes the functional  specifications of the Carturesti.ro website, for which the final project is performed upon.
 
-![Story.2.1.](OneDrive/LocalDisck(C:)/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/Story.2.1.png"Story.2.1.")
-![Story.2.2.](OneDrive/LocalDisck(C:)/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/Story.2.2.png"Story.2.2.")
+![F Story 1](https://github.com/RaresSeresanu/Jira_Repo/assets/149224663/4bf954fd-fe15-4984-bce1-d8339212a709)
+![F Story 2](https://github.com/RaresSeresanu/Jira_Repo/assets/149224663/efd06470-f9aa-4f1a-adc2-5f3f0e8d8d5f)
 
 Here you can find the release that was created for this project:
 
@@ -97,7 +97,7 @@ The entry criteria defined in the Test Planning phase have been achived and the 
 The Test Monitoring and Control stages were performed by the tester who performed the test cases. The monitoring was carried out using Jira and Zephyr software 
 and the results can be followed in the status report.
 
-![Status-Report](OneDrive/LocalDisck(C:)/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/Status-Raport.png"Status-Report")
+![Status Report](https://github.com/RaresSeresanu/Jira_Repo/assets/149224663/f054004b-34ae-4ff9-a976-c78cf4da4d60)
 
 <h3>  1.3. Test Analysis </h3>
 
@@ -107,7 +107,7 @@ selectedItem=com.thed.zephyr.je__cycle-summary)].</b>. <br><br>
 
 The following test conditions were found: <br>
 
-![TestCases.from.issues](OneDrive/LocalDisck(C:)/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/TestCases.from.issues.png "TestCases.from.issues")
+![Test Cases](https://github.com/RaresSeresanu/Jira_Repo/assets/149224663/10f02b11-5a26-42d2-86c7-0ec25ddd2928)
 
 <h3> 1.4. Test Design </h3>
 
@@ -120,16 +120,14 @@ jql=project%20%3D%20%22RSTT%22%20and%20type%20%3D%20Test%20ORDER%20BY%20created%
 The following elements are needed to be ready before the test execution phase begins:
 <ol>
   <li> Insure the propper technological assests: offices, electricity, chairs, desks laptops, cool-air,etc.</li>
-  <li> Optain the necessary informations: credentilas, website structure informations, website functionalities,etc. </li>
-  <li> Optain the purpose of the website and the type of products </li>
+  <li> Obtain the necessary information: credentilas, website structure informations, website functionalities,etc. </li>
+  <li> Obtain the purpose of the website and the type of products </li>
   <li> Insure the presence and monitorazing of the task team during the project period </li>
 </ol>
 
 <h3>1.6. Test Execution </h3>
 
-Test cases are executed on the created test Cycle summary: Rares Seresanu TM-TA10
-
-Bugs have been created based on the failed tests. The complete bug reports can be found here: [Jira Software(https://itfclasses.atlassian.net/jira/software/c/projects/RSTT/issues/RSTT-10?jql=project%20%3D%20%22RSTT%22%20and%20type%20%3D%20Bug%20ORDER%20BY%20created%20DESC)].</b>. <br><br>
+Test cases are executed on the project: Rares Seresanu TM-TA10
 
 The following is a summary of the bugs that have been found:
 <ol>
@@ -143,11 +141,13 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here:
-![Transability.Matrix](OneDrive/LocalDisck(C:)/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/Transability.Matrix.png"Transability.Matrix")
+![Trasnibility Matrix](https://github.com/RaresSeresanu/Jira_Repo/assets/149224663/dec13a21-4713-4f0a-988b-a29d5dcd33f5)
+
 
 Test execution chart was generated and can be found below: 
+![Raport Dashboard](https://github.com/RaresSeresanu/Jira_Repo/assets/149224663/a8395d76-5430-4268-b444-7117bd85e82c)
 
-![Raport.Dashboard](OneDrive/LocalDisck(C:)/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/Raport.Dashboard.png"Raport.Dashboard")
+
 
 The final report shows that a number 10 tests have failed of a total of 0 tests.
 
