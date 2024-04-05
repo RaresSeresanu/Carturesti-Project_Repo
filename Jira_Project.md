@@ -141,12 +141,11 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here:
-![Trasnibility Matrix](https://github.com/RaresSeresanu/Jira_Repo/assets/149224663/dec13a21-4713-4f0a-988b-a29d5dcd33f5)
+![TransabilityMatrix2](https://github.com/RaresSeresanu/Jira_Repo/assets/149224663/4445be85-6223-4a58-a79b-84e7db0a380b)
 
 
 Test execution chart was generated and can be found below: 
 ![Raport Dashboard](https://github.com/RaresSeresanu/Jira_Repo/assets/149224663/a8395d76-5430-4268-b444-7117bd85e82c)
-
 
 
 The final report shows that a number 10 tests have failed of a total of 0 tests.
