@@ -107,7 +107,7 @@ selectedItem=com.thed.zephyr.je__cycle-summary)].</b>. <br><br>
 
 The following test conditions were found: <br>
 
-![Test Cases](https://github.com/RaresSeresanu/Jira_Repo/assets/149224663/10f02b11-5a26-42d2-86c7-0ec25ddd2928)
+![TestConditions](https://github.com/RaresSeresanu/Jira_Repo/assets/149224663/5245bf86-9f84-4d14-b5c0-1417fae1ca26)
 
 <h3> 1.4. Test Design </h3>
 
