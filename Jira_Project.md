@@ -15,7 +15,7 @@ The below stories were created in Jira and describes the functional  specificati
 
 Here you can find the release that was created for this project:
 
-![Releases](OneDrive/LocalDisck(C:)/Users/Rares/OneDrive/Dekstop/ProiectFinalTMTA/Releases.png"Releases")
+![Releases](https://github.com/RaresSeresanu/Carturesti-Project_Repo/assets/149224663/22e62e47-ff54-41b4-a42d-450bf3d17796)
 
 <h2> Testing process</h2>
 
